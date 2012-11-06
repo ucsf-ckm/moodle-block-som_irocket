@@ -6,7 +6,7 @@ iRocket helpdesk block for Moodle
 
 class block_som_irocket extends block_base {
     function init() {
-        $this->title = 'iROCKET Helpdesk';
+        $this->title = get_string('som_irocket', 'block_som_irocket');
     }
 
     function get_content() {
