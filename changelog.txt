@@ -1,7 +1,0 @@
-UCSF Library Catalog Block - Steven Williams (williams@library.ucsf.edu)
-
-Changelog
-===========
-
-1.0 (2/13/09)
-- Searches UCSF Library Catalog
