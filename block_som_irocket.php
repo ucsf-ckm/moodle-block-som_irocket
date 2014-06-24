@@ -24,7 +24,7 @@ class block_som_irocket extends block_base {
 
         $this->content->text = $somlogo.
 
-            '<br /><br />For assistance email the iROCKET Team at <a target="_blank" href="mailto:irocket@ucsf.edu">irocket@ucsf.edu</a> or call us at 415/502-2800. Our help desk is open M-F, 8a-5p.<br /><br /><a target="_blank" href="http://medschool.ucsf.edu/irocket/tech_requirement/policy.aspx#irocket_use">iROCKET Usage Policy </a>';
+            '<br /><br />For assistance email the iROCKET Team at <a target="_blank" href="mailto:irocket@ucsf.edu">irocket@ucsf.edu</a> or call us at 415/502-2800. Our help desk is open M-F, 8a-5p.<br /><br /><a target="_blank" href="http://meded.ucsf.edu/tel/irocket-usage-policy">iROCKET Usage Policy </a>';
 
 
         $this->content->footer ='';
