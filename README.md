@@ -10,8 +10,10 @@ Authors
 
 Steven Williams ( williams@library.ucsf.edu )
 Company: UC San Francisco Center for Instructional Technology ( http://cit.ucsf.edu )
+
 Jesse Friedman  (jesse.friedman@ucsf.edu)
 Company: UC San Francisco SOM
+
 Carson Tam ( carson.tam@ucsf.edu )
 Company: UC San Francisco Center for Knowledge Management ( http://library.ucsf.edu )
 
