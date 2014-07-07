@@ -24,3 +24,5 @@
 
 $string['pluginname'] = 'iROCKET Helpdesk';
 $string['som_irocket'] = 'iROCKET Helpdesk';
+$string['som_irocket:addinstance'] = 'Add iROCKET Helpdesk block';
+$string['som_irocket:myaddinstance'] = 'Add iROCKET Helpdesk block to the My Moodle page';
