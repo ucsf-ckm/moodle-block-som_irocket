@@ -22,6 +22,6 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$plugin->version = 2014070700;  // YYYYMMDDHH (year, month, day, 24-hr time)
-$plugin->requires = 2010112400; // YYYYMMDDHH (This is the release version for Moodle 2.0)
+$plugin->version   = 2016120500;        // The current plugin version (Date: YYYYMMDDXX)
+$plugin->requires  = 2016112900;        // YYYYMMDDHH (This is the release version for Moodle 2.0)
 $plugin->component = 'block_som_irocket'; // Full name of the plugin (used for diagnostics)
